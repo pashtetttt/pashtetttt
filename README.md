@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pashtetttt
-- 👀 I’m interested in development in Python and machine learning
-- 🌱 I’m currently learning Django and Django REST frameworks
-- 💞️ I’m looking to collaborate on projects that include machine learning, building backend architectures or desktop apps
+- 👀 I’m interested in machine learning, deep learning, robotics and engineering!
+- 🌱 I’m currently learning TensorFlow, applied mathematics, C++ for micro-controllers!
+- 💞️ I’m looking for somebody to collaborate or to write a scientific article with!
 - 📫 How to reach me: tg: pashtetttt
 
 <!---
